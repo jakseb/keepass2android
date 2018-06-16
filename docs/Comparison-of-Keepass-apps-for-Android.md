@@ -1,7 +1,8 @@
-<div class="wikidoc">
-<h1>Comparison of Keepass apps for Android</h1>
-<p>This page was created to give you a short overview of the features of Keepass2Android vs. Keepass2Android Offline. As Keepass2Android is based on Keepassdroid (by Brian Pellin), there are quite a few similarities here, as well, so we added Keepass2Android
- vs. Keepassdroid comparison as well. &quot;Better&quot; properties are highlighted in bold. The page was created in 12/2013. If any information is out of date, please leave a note in the comments section.</p>
+# Comparison of Keepass apps for Android
+
+This page was created to give you a short overview of the features of Keepass2Android vs. Keepass2Android Offline. As Keepass2Android is based on Keepassdroid (by Brian Pellin), there are quite a few similarities here, as well, so we added Keepass2Android
+ vs. Keepassdroid comparison as well. &quot;Better&quot; properties are highlighted in bold. The page was created in 12/2013. If any information is out of date, please leave a note in the comments section.
+
 <table>
 <tbody>
 <tr>
@@ -114,5 +115,3 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-</div><div class="ClearBoth"></div>
